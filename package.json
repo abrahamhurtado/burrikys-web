@@ -1,0 +1,15 @@
+{
+  "name": "burrikys-web",
+  "version": "1.0.0",
+  "description": "Web application for Burrikys, the king of burros",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Abraham Hurtado <arhc.hc@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "compression": "1.6.1",
+    "express": "4.13.4"
+  }
+}
