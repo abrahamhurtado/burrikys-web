@@ -11,5 +11,14 @@
   "dependencies": {
     "compression": "1.6.1",
     "express": "4.13.4"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arhcstolen/burrikys-web.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arhcstolen/burrikys-web/issues"
+  },
+  "homepage": "https://github.com/arhcstolen/burrikys-web#readme"
 }
