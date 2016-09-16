@@ -1,5 +1,7 @@
 # Burrikys
 
+[Corre la aplicación](#corre-la-aplicación)
+
 Repositorio oficial de la aplicación web de Burrikys, el rey de los burros.
 
 ### Corre la aplicación
