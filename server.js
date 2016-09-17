@@ -8,7 +8,7 @@ app.use(gzip());
 app.use('/public', express.static(path.resolve('public')));
 
 app.get('/', function (req, res) {
-  res.sendFile(path.resolve('index.html'));
+  res.sendFile(path.resolve('public/index.html'));
 });
 
 app.listen(process.env.PORT || 3000, function () {
